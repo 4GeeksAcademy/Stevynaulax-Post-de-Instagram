@@ -1,0 +1,119 @@
+div.post{
+    
+    background: white;
+    width: 680.300px;
+    
+}
+
+
+
+
+div.post-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+div.post-body >p1{display: flex;
+    justify-content: center;
+    align-items: auto;
+    text-justify: auto;
+    padding: 3px;
+    float: inline-start;
+    font-size: medium;
+    margin-top: -45px;
+    margin-left: 34px;
+    margin-right: 34px;
+    background-color: white;
+    margin-bottom: 34px;
+    
+    
+}
+div.post-body >p2{display: flex;
+    align-items: auto;
+    text-justify: auto;
+    text-align: justify;
+    padding: 3px;
+    float: inline-start;
+    font-size: medium;
+    margin-top: -25px;
+    background-color: white;
+    margin-left: 34px;
+    margin-right: 34px;
+    margin-bottom: 34px;
+    
+    
+}
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.header-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-logo i{
+    font-size: 35px;
+    margin: 40px;
+    
+}
+.header-text{
+    line-height: 0.1;
+    margin-left: -35px;
+    
+}
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+
+}
+
+.header-ellipsis{
+    font-size: 35px;
+    margin: 40px;
+}
+
+.title{
+    display: flex;
+    justify-content: left;
+}
+
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    margin: 40px;
+    margin-top: 1px;
+}
+.main-icons{
+    display: flex;
+    font-size: 25px;
+    margin: 65px;
+    margin-top: -64.4px;
+    
+}
+
+header{
+    background-color: white;
+    margin-left: 34px;
+    margin-right: 34px;
+    
+    
+}
+
+main{
+    background-color: white;
+    margin-left: 34px;
+    margin-right: 34px;
+    
+    
+}
+
